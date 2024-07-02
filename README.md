@@ -14,6 +14,7 @@ At **PromptVerse**, we believe in the power of creative collaboration. Whether y
 - **MongoDB**: Enjoy scalable, flexible data management.
 - **NextAuth**: Secure authentication with support for Google login.
 - **TailwindCSS**: Create stunning, responsive designs effortlessly.
+- **Javascript**
 
 ## 🚀 Key Features
 
