@@ -4,6 +4,9 @@ Welcome to **PromptVerse**, your gateway to a world of AI-generated creativity. 
 
 ![Website  Design - PromptVerse](https://github.com/Sidharth1327/PromptVerse---Full-Stack-Next-JS-app/assets/91174930/d183f60c-63f8-4a73-8d00-f32281c444f6)
 
+![Screenshot 2024-07-02 213201](https://github.com/Sidharth1327/PromptVerse---Full-Stack-Next-JS-app/assets/91174930/3a143065-f25b-4c1b-bd24-5b92bd8296e0)
+
+![Screenshot 2024-07-02 213220](https://github.com/Sidharth1327/PromptVerse---Full-Stack-Next-JS-app/assets/91174930/c40da6c1-d703-4fe0-a503-c2b726dd677b)
 
 
 ## 🌟 Project Highlights
