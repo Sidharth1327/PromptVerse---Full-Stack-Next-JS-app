@@ -2,7 +2,9 @@
 
 Welcome to **PromptVerse**, your gateway to a world of AI-generated creativity. Dive into a community-driven platform where ideas flourish, and innovation thrives. Built with Next.js, MongoDB, NextAuth, and TailwindCSS, PromptVerse represents the pinnacle of modern web development, blending cutting-edge technology with user-centric design.
 
-![PromptVerse Banner](path/to/your/banner/image.png)
+![Website  Design - PromptVerse](https://github.com/Sidharth1327/PromptVerse---Full-Stack-Next-JS-app/assets/91174930/d183f60c-63f8-4a73-8d00-f32281c444f6)
+
+
 
 ## 🌟 Project Highlights
 
